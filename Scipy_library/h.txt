@@ -1,0 +1,2 @@
+hello 
+In this project the Scipy libray is used to find the Skewnwss & Kurtosis 
